@@ -81,10 +81,6 @@ Need help? Contact us through:
 
 This platform is intended for entertainment purposes only. We respect network policies and encourage responsible gaming practices. Users should comply with their local network restrictions and guidelines.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 
 ## 📊 Stats & Recognition
